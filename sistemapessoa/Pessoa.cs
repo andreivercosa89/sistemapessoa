@@ -4,13 +4,16 @@ namespace sistemapessoa
     public class Pessoa
     {
         private string nome;
+        private int idade;
 
-        public void setNome(string nome){
-            this.nome = nome;
-        } 
+        public string Nome{
+            set { this.nome = value; }
+            get { return this.nome; }
+        }
 
-        public string getNome(){
-            return this.nome;
+        public int Idade{
+            set { this.idade = value; }
+            get { return this.idade; }
         }
 
         public Pessoa()
