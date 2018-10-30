@@ -1,0 +1,11 @@
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/bin/Debug/netcoreapp2.1/sistemapessoa.deps.json
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/bin/Debug/netcoreapp2.1/sistemapessoa.runtimeconfig.json
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/bin/Debug/netcoreapp2.1/sistemapessoa.runtimeconfig.dev.json
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/bin/Debug/netcoreapp2.1/sistemapessoa.dll
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/bin/Debug/netcoreapp2.1/sistemapessoa.pdb
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/obj/Debug/netcoreapp2.1/sistemapessoa.csprojAssemblyReference.cache
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/obj/Debug/netcoreapp2.1/sistemapessoa.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/obj/Debug/netcoreapp2.1/sistemapessoa.AssemblyInfoInputs.cache
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/obj/Debug/netcoreapp2.1/sistemapessoa.AssemblyInfo.cs
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/obj/Debug/netcoreapp2.1/sistemapessoa.dll
+/Users/aluno/Projects/sistemapessoa/sistemapessoa/obj/Debug/netcoreapp2.1/sistemapessoa.pdb
