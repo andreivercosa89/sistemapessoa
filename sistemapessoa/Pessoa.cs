@@ -3,17 +3,13 @@ namespace sistemapessoa
 {
     public class Pessoa
     {
-        private string nome;
-        private int idade;
 
         public string Nome{
-            set { this.nome = value; }
-            get { return this.nome; }
+            get;set;
         }
 
         public int Idade{
-            set { this.idade = value; }
-            get { return this.idade; }
+            get;set;
         }
 
         public Pessoa()

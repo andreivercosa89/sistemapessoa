@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{FBCE831A-AFA2-4A3E-802C-B0004EA57B7C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="sistemapessoa/Pessoa.cs">
     <Files>
-      <File FileName="sistemapessoa/Program.cs" Line="9" Column="50" />
-      <File FileName="sistemapessoa/Pessoa.cs" Line="7" Column="9" />
+      <File FileName="sistemapessoa/Program.cs" Line="14" Column="36" />
+      <File FileName="sistemapessoa/Pessoa.cs" Line="5" Column="6" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,5 +11,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.sistemapessoa PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.sistemapessoa PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
